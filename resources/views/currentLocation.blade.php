@@ -23,7 +23,7 @@
         <div id="map" style="height:500px">
         </div>
 
-        <form action="{{ route('result.currentLocation') }}" method="get">
+       <form action="{{ route('result.currentLocation') }}" method="get">
             {{-- 隠しフォームでresult.currentLocationに位置情報を渡す --}}
             <input type="hidden" name="lat" value="" class="lat_input">
             <input type="hidden" name="lng" value="" class="lng_input">
