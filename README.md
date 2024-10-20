@@ -1,3 +1,18 @@
+## 環境構築
+
+```git clone```を行うとdockerがエラーを起こすため以下のコマンドを打つこと
+```bash
+curl -s https://laravel.build/team-g | bash
+
+cd team-g
+
+git init
+
+git git remote add origin git@github.com:mizo999/team-g.git
+
+git pull origin main
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
