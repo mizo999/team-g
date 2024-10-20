@@ -4,7 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ead3b2177c9b5a65c881df95022c6f23",
+        "content-hash": "ead3b2177c9b5a65c881df95022c6f23",
+
     "packages": [
         {
             "name": "brick/math",
@@ -5859,6 +5860,7 @@
             "time": "2024-10-06T21:13:27+00:00"
         },
         {
+
             "name": "laravel/pail",
             "version": "v1.1.5",
             "source": {
@@ -7017,7 +7019,7 @@
         },
         {
             "name": "sebastian/comparator",
-            "version": "6.1.1",
+                        "version": "6.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/comparator.git",
@@ -7027,6 +7029,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/5ef523a49ae7a302b87b2102b72b1eda8918d686",
                 "reference": "5ef523a49ae7a302b87b2102b72b1eda8918d686",
+
                 "shasum": ""
             },
             "require": {
@@ -7083,6 +7086,7 @@
                 "issues": "https://github.com/sebastianbergmann/comparator/issues",
                 "security": "https://github.com/sebastianbergmann/comparator/security/policy",
                 "source": "https://github.com/sebastianbergmann/comparator/tree/6.1.1"
+ 
             },
             "funding": [
                 {
@@ -7090,6 +7094,7 @@
                     "type": "github"
                 }
             ],
+
             "time": "2024-10-18T15:00:48+00:00"
         },
         {
