@@ -10,7 +10,7 @@ cd team-g
 
 git init
 
-git git remote add origin git@github.com:mizo999/team-g.git
+git remote add origin git@github.com:mizo999/team-g.git
 
 git pull origin main
 ```
